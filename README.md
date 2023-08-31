@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a college student major in data science 
-- 🌱 I’m currently learning artificial intelligence by myself：deep learning、automatic drive、NeRF
+- 🌱 I’m currently learning artificial intelligence by myself：CV、deep learning、automatic drive、NeRF
 
