@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently a college student major in data science
-- I’m currently learning artificial intelligence by myself：CV、DL、Automatic drive、NeRF
-- I’m also interested in computer theory and mathematics
+- I’m currently a college student major in data science。
+- I’m currently learning artificial intelligence by myself：CV、DL、Automatic drive、NeRF。
+- I’m also interested in computer theory and mathematics。
