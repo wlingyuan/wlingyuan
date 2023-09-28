@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - I’m currently learning artificial intelligence by myself：CV、DL、Automatic drive、NeRF
 - I’m also interested in computer theory and mathematics
 - achieve the dream or acept the reality?
+- if it is your dream for many years,don't afraid.you can just have a try.
