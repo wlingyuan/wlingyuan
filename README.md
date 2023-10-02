@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - I’m currently learning artificial intelligence by myself：CV、DL、Automatic drive、NeRF
 - I’m also interested in computer theory and mathematics
 - have a good day
-- every day
+  
   
