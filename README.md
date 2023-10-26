@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I’m currently a college student major in data science
-- I’m currently learning artificial intelligence by myself：CV、DL、Automatic drive、NeRF
+- I’m currently learning artificial intelligence by myself
 - I’m also interested in computer theory and mathematics
+- be confident
   
   
   
