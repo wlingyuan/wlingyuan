@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - I’m currently a college student major in data science
 - I’m currently learning artificial intelligence by myself
-- I’m also interested in computer theory and mathematics。
+- I’m also interested in computer theory and mathematics
   
   
   
